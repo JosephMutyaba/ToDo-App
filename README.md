@@ -56,6 +56,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Contact
 
-For any inquiries, please contact [your-email@example.com].
+For any inquiries, please contact [josephsteinson@gmail.com].
 
 Happy coding!
