@@ -1,6 +1,7 @@
 # Flutter ToDo App
 
-This is a simple ToDo app developed using Flutter. It allows users to manage their tasks and keep track of their to-do list efficiently.
+This is a simple ToDo app developed using Flutter. It allows users to manage their tasks and keep track of their to-do list efficiently. 
+The hive noSQL database is used.
 
 ## Features
 
@@ -8,11 +9,6 @@ This is a simple ToDo app developed using Flutter. It allows users to manage the
 - Mark tasks as complete.
 - Delete tasks.
 - Clean and intuitive user interface.
-
-## Screenshots
-
-![Screenshot 1](/screenshots/screenshot1.png)
-<!-- Add additional screenshots if needed -->
 
 ## Getting Started
 
@@ -27,7 +23,7 @@ Follow these steps to run the app on your local machine:
 2. Navigate to the project directory:
 
     ```bash
-    cd flutter-todo-app
+    cd todo_app
     ```
 
 3. Install dependencies:
