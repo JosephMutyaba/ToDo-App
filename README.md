@@ -21,7 +21,7 @@ Follow these steps to run the app on your local machine:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/flutter-todo-app.git
+    git clone https://github.com/JosephMutyaba/ToDo-App.git
     ```
 
 2. Navigate to the project directory:
